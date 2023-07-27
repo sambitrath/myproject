@@ -1,0 +1,36 @@
+{
+  "name": "myproject",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_myproject"
+  },
+  "dependencies": {
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "jv78wvVYcI920ea1o87No",
+  "parentBlockIDs": [],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
