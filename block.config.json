@@ -2,8 +2,8 @@
   "name": "myproject",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/sambitrath/myproject.git",
+    "ssh": "git@github.com:sambitrath/myproject.git",
     "branch": "block_myproject"
   },
   "dependencies": {
